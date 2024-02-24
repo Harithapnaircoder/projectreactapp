@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# projectreactapp
+This project entails the creation of an Employee Dashboard featuring a Navbar with links to the Home page and an Employee form. The Home page, also known as the Employee Dashboard, will showcase data retrieved from an external API link (https://jsonplaceholder.typicode.com/users), presented in tabular, card, or list view formats, including fields such as ID, Name, and Email. Additionally, the project will include an Employee form with fields like Name, Designation, Location, and Salary. To facilitate seamless navigation, appropriate routes will be implemented to switch between the Dashboard/Home and Employee Form. The application will be developed using React.js, leveraging React Router DOM for routing, Axios for fetching data from external APIs, and Material UI for building UI components. It will adhere to a structured folder hierarchy, with distinct directories for public assets, source code, and components. Prioritizing user experience, error handling mechanisms will be integrated to manage potential issues during data fetching, ensuring a smooth and reliable application experience.
+>>>>>>> 238f03b120232e5744fb88ffd0b8c57e1d18e8cb
